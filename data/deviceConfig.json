@@ -1,0 +1,23 @@
+{"devices": [
+    {"name": "Hotel battery", "mapping": "mainBattery", "type": 1, "connected": 1},
+    {"name": "Running battery", "mapping": "additionalBattery",  "type": 2, "connected": 1},
+    {"name": "Fresh water", "mapping": "waterSensor1", "type": 1, "connected": 1},
+    {"name": "Grey water", "mapping": "waterSensor2", "type": 1, "connected": 1},
+    {"name": "Light", "mapping": "device1", "type": 2, "connected": 1},
+    {"name": "Fridge", "mapping": "device2",  "type": 8, "connected": 1},
+    {"name": "Water pump", "mapping": "device3",  "type": 1, "connected": 1},
+    {"name": "Water valve", "mapping": "device4",  "type": 7, "connected": 1},
+    {"name": "Fan", "mapping": "device5",  "type": 4, "connected": 1},
+    {"name": "Heating", "mapping": "device6", "type": 3, "connected": 1},
+    {"name": "Power Inverter", "mapping": "device7",  "type": 9, "connected": 1},
+    {"name": "Move sensor", "mapping": "sensor1",  "type": 4, "connected": 1},
+    {"name": "Gas sensor", "mapping": "sensor2",  "type": 5, "connected": 1},
+    {"name": "Flood sensor", "mapping": "sensor3",  "type": 6, "connected": 1},
+    {"name": "Door sensor", "mapping": "sensor4",  "type": 7, "connected": 1},
+    {"name": "Outside temp.", "mapping": "extTemp1",  "type": 1, "connected": 1},
+    {"name": "Grey water temp.", "mapping": "extTemp2",  "type": 1, "connected": 1},
+    {"name": "Custom temp. 1", "mapping": "extTemp3",  "type": 1, "connected": 0},
+    {"name": "Custom temp. 2", "mapping": "extTemp4",  "type": 1, "connected": 0}
+], 
+    "mpptType": 1
+}
